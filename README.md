@@ -13,6 +13,7 @@ Modular Python framework for **calibration, out-of-sample evaluation, and statis
 
 ## Project Structure
 
+```text
 .
 ├── main.py
 ├── config.py
@@ -48,6 +49,7 @@ Modular Python framework for **calibration, out-of-sample evaluation, and statis
 │   └── io.py
 │
 └── README.md
+```
 
 ## Input Data Requirements
 
