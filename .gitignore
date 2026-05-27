@@ -1,0 +1,13 @@
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Proprietary results
+*.xlsx
+*.png
+*.csv
